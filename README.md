@@ -79,10 +79,6 @@ docker run -d \
 - If you want a different Motion version (or a specific release of MotionEye), edit the **Dockerfile** accordingly.
 - The **entrypoint.sh** script can be modified to add environment variables, logs, or any additional startup logic.
 
-## License
-
-*(Specify your license here, e.g. MIT, GPL, etc.)*
-
 ---
 
 Enjoy running MotionEye with the latest Motion 4.7!

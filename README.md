@@ -21,7 +21,7 @@ This repository provides a Docker configuration to run **MotionEye** (bundled wi
 
 ```bash
 git clone https://github.com/cefoot/motioneye_docker.git
-cd <repo-name>
+cd motioneye_docker
 ```
 
 ### 2. Build the Docker image
